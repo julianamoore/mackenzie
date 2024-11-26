@@ -29,9 +29,6 @@ def income_tax():
 
         #add data into a dictionary, with the key being CPF and the data everything after
         dict_data[data[:11]] = data[12:]
-    
-#02847890764 28/05/2003 AB12;4000;Son1;Son2;Son3
-#     28 = 12      A = 23
 
     #for loop to go through every key in the dictionary with all the data
     for key in dict_data:
