@@ -1,0 +1,4 @@
+Employee 02847890764 has 8000 ammount of tax deduction. 
+Employee 86332577892 has 4500 ammount of tax deduction. 
+Employee 07784277126 has 3000.0 ammount of tax deduction. 
+Employee 94628347628 has 4000 ammount of tax deduction. 
