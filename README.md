@@ -1,2 +1,2 @@
 # mackenzie
-college meow meow meowwww
+projects and homework will go here
